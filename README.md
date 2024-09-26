@@ -11,10 +11,10 @@
 
 ```js
 const skills = {
-  languages: ['HTML/CSS', 'JavaScript', 'Python', 'Java'],
+  languages: ['HTML/CSS', 'JavaScript', 'Python'],
   cssWorld: ['Tailwindcss', 'Sass'],
   reactWorld: ['React', 'Redux'],
-  testing: ['unit'],
+  testing: ['Unit'],
   tools: ['VSCode', 'Git', 'Babel', 'Webpack', 'Vite'],
   OS: 'Linux/Debian',
 };
