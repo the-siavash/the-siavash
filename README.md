@@ -8,10 +8,10 @@
 ```js
 const skills = {
   languages: ['HTML/CSS', 'JavaScript', 'Python'],
-  cssWorld: ['Tailwindcss', 'Sass'],
-  reactWorld: ['React', 'Redux'],
-  testing: ['Unit'],
-  tools: ['VSCode', 'Git', 'Babel', 'Webpack', 'Vite'],
+  cssWorld: ['Tailwindcss', 'Bootstrap', 'Sass'],
+  reactWorld: ['React'],
+  testing: [],
+  tools: ['VSCode', 'Git', 'Babel', 'Vite'],
   OS: 'Linux/Debian',
 };
 ```
